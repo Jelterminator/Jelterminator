@@ -2,9 +2,9 @@
 
 **💭 Ecosopher | AI Expert | Applied Physicist | Game Systems Developer**
 
-I am an applied physicist and software developer based right here in Delft. I hold a Double Bachelor in Applied Physics & Applied Mathematics from Delft University of Technology, where I focused on numerical modeling, algorithm development, and complex systems. 
+I am an applied physicist and software developer based in Delft. I recently finished my thesis for a Double Bachelor in Applied Physics & Applied Mathematics from Delft University of Technology, where I focused on numerical modeling, algorithm development, and complex systems. 
 
-Currently, I am seeking opportunities in the game development industry—specifically targeting the deep, systems-heavy architecture crafted by studios like Paradox Interactive and Triumph. My background in maths, physics, and philosophy allows me to approach game mechanics systematically and creatively.
+Currently, I am seeking opportunities in the game development industry—specifically targeting deep, systems-heavy architecture design as I would like to train my system thinking skills. My background in maths, physics, and philosophy allows me to approach game mechanics analytically and creatively.
 
 ---
 

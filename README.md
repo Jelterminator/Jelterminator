@@ -1,4 +1,4 @@
-# Hi there, I'm Jelte S. van der Heide 👋
+# Yo! I'm Jelte. 👋
 
 **💭 Ecosopher | AI Expert | Applied Physicist | Game Systems Developer**
 

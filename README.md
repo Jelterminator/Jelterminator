@@ -1,6 +1,6 @@
 # Yo! I'm Jelte. 👋
 
-**💭 Ecosopher | AI Expert | Applied Physicist | Game Systems Developer**
+**💭 Ecosopher | AI Expert | Applied Physicist | Multi-Media Artist**
 
 I am an applied physicist and software developer based in Delft. I recently finished my thesis for a Double Bachelor in Applied Physics & Applied Mathematics from Delft University of Technology, where I focused on numerical modeling, algorithm development, and complex systems. 
 

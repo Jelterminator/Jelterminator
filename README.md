@@ -32,7 +32,7 @@ Currently, I am seeking opportunities in the game development industry --- speci
 ## 📫 Let's Connect
 * **Location:** Delft, The Netherlands
 * **Email:** jeltevdh@gmail.com
-* **Hobbies:** Vibe coding, Tai Chi, chess, literature & poetry, and rap music.
+* **Hobbies:** Vibe coding, Tai Chi, [chess](https://www.chess.com/member/jelterminator), [literature & poetry](https://jelterminator.gumroad.com/), and [rap music](https://fanlink.tv/MaxFlowVVSM).
 
 <br>
 
